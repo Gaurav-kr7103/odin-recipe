@@ -1,0 +1,23 @@
+body {
+    background-color: lightgreen;
+}
+
+h1 {
+    text-align: center;
+    background-color: hsl(54, 100%, 66%);
+    font-size: 80px;
+}
+
+ul {
+    font-size: 44px;
+    color : purple;
+}
+
+ul li {
+    font-size : 30px;
+    color : blue;
+}
+
+a {
+    color : white;
+}
