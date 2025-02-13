@@ -3,9 +3,10 @@ body {
 }
 
 h1 {
-    text-align: center;
+    text-align: left;
     background-color: hsl(54, 100%, 66%);
     font-size: 80px;
+    margin : 50px;
 }
 
 ul {
@@ -20,4 +21,17 @@ ul li {
 
 a {
     color : white;
+}
+
+.recipe {
+    background-color: lightcoral;
+    display: block;
+    margin : 
+}
+.list{
+    display: block;
+    background-color: black;
+    display: block;
+    margin: 0px;
+    text-align: left;
 }

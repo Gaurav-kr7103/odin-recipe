@@ -1,0 +1,42 @@
+* {
+    /* outline : 2px solid black; */
+}
+body {
+    background-color: aquamarine;
+    box-sizing: border-box;
+}
+
+h1 {
+    background-color: beige;
+    color : orange;
+    text-align: center;
+    font-size: 60px;
+    margin : 0px 5em 1em 5em;
+}
+
+.description {
+    background-color: lightyellow;
+    padding-right: 0px;
+    font-size: 2em;
+    width: 200px;
+}
+.container {
+    display: block;
+    background-color: lightpink;
+}
+
+.container img,
+.container p {
+    display: inline-block;
+    margin : 10px;
+}
+
+.container img {
+    height: 200px;
+    width: 200px;
+}
+.container p {
+    height: 200px;
+    width: 800px;
+    margin-top: -2em;
+}
